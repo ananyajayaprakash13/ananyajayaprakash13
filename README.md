@@ -9,7 +9,8 @@ I'm an aspiring Data Analyst skilled in SQL, Python, Excel, Data analysis and Ta
 - EDA(exploratory data analysis)
 
 Projects
-Welcome to my portfolio, where I showcase my projects
+Welcome to my[**View My Full Portfolio**](https://github.com/ananyajayaprakash13/Portfolio)
+, where I showcase my projects
 
 
 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/ananyajayaprakash/).
