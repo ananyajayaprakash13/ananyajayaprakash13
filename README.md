@@ -8,7 +8,7 @@ I'm an aspiring Data Analyst skilled in SQL, Python, Excel, Data analysis and Ta
 - Tableau
 
 
-## Projects
+## 📚Projects
 Welcome to my [**Portfolio**](https://github.com/ananyajayaprakash13/Portfolio)
 , where I showcase my projects
 
