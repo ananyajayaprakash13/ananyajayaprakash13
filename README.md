@@ -14,8 +14,8 @@ I’m an aspiring Data Analyst passionate about transforming data into actionabl
 - **Excel**
 
 ## 📚 Projects
-Welcome to my [portfolio](https://github.com/ananyajayaprakash13) ! 
-Here, I showcase my work on data analysis, business case studies, and more. 
+Welcome to my [portfolio](https://github.com/ananyajayaprakash13) !  
+Here, I showcase my work on data analysis, business case studies, and more.   
 Feel free to explore my repositories, and connect with me on [LinkedIn](#).
 
 Let’s unlock the power of data together! 🚀
