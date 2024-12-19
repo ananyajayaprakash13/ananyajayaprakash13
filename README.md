@@ -1,17 +1,19 @@
 # Hello, I'm Ananya 👋
 
-I'm an aspiring Data Analyst skilled in SQL, Python, Excel, Data analysis and Tableau. Passionate about transforming data into meaningful insights. 
+I’m an aspiring Data Analyst passionate about transforming data into actionable insights. Skilled in SQL, Python (Pandas, NumPy), Tableau, Excel, and more.
 
 ## Skills
-- SQL
-- Python (Pandas, NumPy)
-- Tableau
+- **SQL**
+- **Python** (Pandas, NumPy)
+- **Machine Learning**
+- **Data Analysis**
+- **Data Visualization** (Matplotlib, Seaborn)
+- **Statistics & Probability**
+- **Hypothesis Testing**
+- **Tableau**
+- **Excel**
 
+## 📚 Projects
+Welcome to my portfolio! Here, I showcase my work on data analysis, business case studies, and more. Feel free to explore my repositories, and connect with me on [LinkedIn](#).
 
-## 📚Projects
-Welcome to my [**Portfolio**](https://github.com/ananyajayaprakash13/Portfolio)
-, where I showcase my projects
-
-
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/ananyajayaprakash/).
-
+Let’s unlock the power of data together! 🚀
