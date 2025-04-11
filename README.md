@@ -1,10 +1,11 @@
-# Hello, I'm Ananya 👋
+# Hello, I'm Ananya Jayaprakash👋
 
 I’m an aspiring Data Analyst passionate about transforming data into actionable insights. Skilled in SQL, Python (Pandas, NumPy), Tableau, Excel, and more.
 
 ## Skills
 - **SQL**
 - **Python** (Pandas, NumPy)
+- **EDA Fundamentals**
 - **Machine Learning**
 - **Data Analysis**
 - **Data Visualization** (Matplotlib, Seaborn)
